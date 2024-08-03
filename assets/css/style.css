@@ -156,6 +156,8 @@ span{
 
 footer{
 	border-top: 1px solid #33A8DB;
+	background-image: linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, .2));
+	height: 200px;
 }
 
 footer img{
